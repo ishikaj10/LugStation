@@ -1,0 +1,83 @@
+.property-1group-11-item {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-teal-300);
+}
+.book-now1 {
+  position: absolute;
+  height: 44.62%;
+  width: 50.41%;
+  top: 27.69%;
+  left: 36.59%;
+  display: inline-block;
+  -webkit-text-stroke: 0.5px #fff;
+}
+.online-booking-icon1 {
+  position: absolute;
+  height: 61.54%;
+  width: 16.26%;
+  top: 15.38%;
+  right: 66.67%;
+  bottom: 23.08%;
+  left: 17.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.book-now2,
+.property-1group-111 {
+  position: absolute;
+  top: 20px;
+  left: 48px;
+  width: 246px;
+  height: 65px;
+}
+.book-now2 {
+  height: 44.44%;
+  width: 58.57%;
+  top: 28.26%;
+  left: 38.08%;
+  display: inline-block;
+  -webkit-text-stroke: 0.5px #fff;
+}
+.online-booking-icon2 {
+  position: absolute;
+  height: 76.09%;
+  width: 23.18%;
+  top: 11.96%;
+  right: 67.55%;
+  bottom: 11.96%;
+  left: 9.27%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.property-1group-12 {
+  position: absolute;
+  top: 168px;
+  left: 20px;
+  width: 302px;
+  height: 92px;
+  font-size: var(--font-size-13xl);
+}
+.component-101 {
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 100%;
+  height: 280px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-paleturquoise-100);
+  font-family: var(--font-inter);
+}

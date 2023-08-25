@@ -1,0 +1,58 @@
+.property-1group-11-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background: linear-gradient(
+    90deg,
+    rgba(5, 73, 80, 0.6) 32.01%,
+    rgba(198, 81, 2, 0.6) 96.58%
+  );
+}
+.book-luggage-storage1 {
+  position: absolute;
+  width: 87.7%;
+  top: 26.03%;
+  left: 6.56%;
+  font-weight: 900;
+  display: inline-block;
+}
+.property-1group-11 {
+  position: absolute;
+  top: 188px;
+  left: 11px;
+  width: 366px;
+  height: 73px;
+}
+.book-luggage-storage2 {
+  position: absolute;
+  width: 93.41%;
+  top: 28.79%;
+  left: 6.59%;
+  display: inline-block;
+}
+.property-1group-10 {
+  position: absolute;
+  top: 20px;
+  left: 57px;
+  width: 273px;
+  height: 66px;
+  font-size: var(--font-size-3xl);
+}
+.component-111 {
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 100%;
+  height: 278px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 28px;
+  color: var(--color-paleturquoise-100);
+  font-family: var(--font-inter);
+}

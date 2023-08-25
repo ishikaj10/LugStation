@@ -1,0 +1,80 @@
+.become-our-partner1 {
+  position: absolute;
+  top: 25%;
+  left: 18.47%;
+  font-weight: 800;
+}
+.handshake-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 16.72%;
+  top: 0;
+  right: 83.28%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.property-1group-5 {
+  position: absolute;
+  top: 96px;
+  left: 9px;
+  width: 287px;
+  height: 48px;
+}
+.property-1become-our-partner {
+  position: absolute;
+  top: 23px;
+  left: 60px;
+  width: 206px;
+  height: 22px;
+}
+.become-our-partner2 {
+  position: absolute;
+  top: 12%;
+  left: 13.08%;
+}
+.become-our-partner-group,
+.handshake-icon2 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+.handshake-icon2 {
+  width: 10.55%;
+  right: 89.45%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.become-our-partner-group {
+  width: 948%;
+  right: -848%;
+}
+.property-1handshake {
+  position: absolute;
+  top: 20px;
+  left: 29px;
+  width: 25px;
+  height: 25px;
+  font-size: var(--font-size-lg);
+}
+.component-71 {
+  position: relative;
+  border-radius: var(--br-8xs);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 100%;
+  height: 167px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
